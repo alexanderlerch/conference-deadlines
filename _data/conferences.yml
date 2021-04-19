@@ -282,3 +282,13 @@
   note: '<b>NOTE</b>: Mandatory abstract deadline on March 27, 2021. More info
     <a href=''https://2021.acmmm.org''>here</a>.'  
   sub: SP
+
+- title: CMMR
+  year: 2021
+  id: cmmr21
+  link: https://www.cmmr2021.gttm.jp/
+  deadline: '2021-06-15 23:59:59'
+  timezone: UTC-12
+  date: November 15-19, 2021
+  place: Tokyo, Japan
+  sub: SP

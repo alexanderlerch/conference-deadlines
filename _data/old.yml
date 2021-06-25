@@ -1,4 +1,409 @@
 
+- title: WWMC   
+  year: 2021
+  id: WWMC21
+  link: https://wwmc.io
+  deadline: '2021-02-15 23:59:59'
+  timezone: Europe/Prague
+  date: April 22-23, 2021
+  place: Prague, Czech Republic
+  sub: ML
+
+- title: ICPRAM
+  year: 2021
+  id: icpram21
+  link: http://www.icpram.org/
+  deadline: '2020-09-14 23:59:59'
+  timezone: UTC-12
+  date: Apr 23-25, 2021
+  place: Vienna, Austria
+  sub: ML
+
+- title: ICLR
+  hindex: 150
+  year: 2021
+  id: iclr21
+  link: http://iclr.cc/
+  deadline: '2020-10-02 07:59:59'
+  abstract_deadline: '2020-09-28 07:59:59'
+  timezone: UTC-7
+  date: May 4-7, 2021
+  place: Vienna, Austria
+  sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline on September 28, 2020. More info
+    <a href=''https://iclr.cc/Conferences/2021/CallForPapers''>here</a>.'
+
+- title: MMSys
+  year: 2021
+  id: mmsys21
+  link: https://2021.acmmmsys.org
+  deadline: '2020-12-14 23:59:59'
+  timezone: UTC-12
+  date: May 25-28, 2021
+  place: Istanbul, Turkey
+  sub: SP
+  note: '<b>NOTE</b>: Mandatory paper registration deadline on December 11, 2020. More info <a href=''https://2021.acmmmsys.org/index.php#call-to-action''>here</a>.'
+
+- title: ICASSP
+  year: 2021
+  id: icassp21
+  link: https://2021.ieeeicassp.org/
+  deadline: '2020-10-21 23:59:59'
+  timezone: UTC-12
+  date: Jun 6-11, 2021
+  place: Toronto, Canada
+  sub: SP
+
+- title: ICPR
+  hindex: 38
+  year: 2020
+  id: icpr20
+  link: https://www.micc.unifi.it/icpr2020/
+  deadline: '2020-07-10 23:59:00'
+  timezone: UTC+1
+  date: January 10-15, 2021
+  place: Milan, Italy
+  sub: ML
+ 
+- title: MMM
+  year: 2021
+  id: mmm21
+  link: https://mmm2021.cz/
+  deadline: '2020-07-31 23:59:59'
+  timezone: UTC-12
+  date: Jan 25-27, 2021
+  place: Prague, Czech Republic
+  sub: SP
+
+- title: ICSC
+  year: 2021
+  id: icsc21
+  link: https://www.ieee-icsc.org/
+  deadline: '2020-10-15 23:59:59'
+  timezone: UTC-12
+  date: Jan 27-29, 2021
+  place: Laguna Hills, CA
+  sub: ML
+
+- title: AAAI
+  year: 2021
+  id: aaai21
+  link: https://aaai.org/Conferences/AAAI-21/
+  deadline: '2020-09-09 23:59:59'
+  timezone: UTC-12
+  date: Feb 2-9, 2021
+  place: Vancouver, BC
+  sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Sep 1, 2020.'
+  
+- title: NeurIPS
+  year: 2020
+  id: neurips20
+  link: https://nips.cc/Conferences/2020
+  deadline: '2020-06-03 13:00:00'
+  abstract_deadline: '2020-05-27 13:00:00'
+  timezone: America/Los_Angeles
+  date: December 6-12, 2020
+  place: Vancouver, Canada
+  sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline on May 27, 2020.'
+
+- title: AIVR
+  year: 2020
+  id: aivr20
+  link: http://aivr.science.uu.nl/aivr_papers.html
+  deadline: '2020-07-24 23:59:59'
+  timezone: Europe/Brussels
+  date: December 14-16, 2020
+  place: Utrecht, NL
+  sub: ML
+
+- title: ICDM
+  year: 2020
+  id: icdm20
+  link: http://icdm2020.bigke.org/
+  deadline: '2020-06-11 23:59:59'
+  timezone: UTC-7
+  date: November 17-20, 2020
+  place: Sorrento, Italy
+  sub: DM
+
+- title: IEEE SSCI
+  year: 2020
+  id: ssci20
+  link: http://www.ieeessci2020.org
+  deadline: '2020-08-07 23:59:59'
+  timezone: UTC-12
+  date: December 1-4, 2020
+  place: Canberra, Australia
+  sub: ML
+
+- title: IEEE ISM
+  year: 2020
+  id: ism20
+  link: http://www.ieee-ism.org/
+  deadline: '2020-08-10 23:59:59'
+  timezone: UTC-12
+  date: December 2-4, 2020
+  place: Naples, Italy
+  sub: ML
+  
+- title: DlfM
+  year: 2020
+  id: dlfm20
+  link: https://dlfm.web.ox.ac.uk/
+  deadline: '2020-07-31 23:59:59'
+  timezone: UTC-11
+  date:  Oct 16, 2020
+  place: Montreal, Canada
+  sub: SP
+  note: '<b>NOTE</b>: Mandatory abstract deadline on July 24, 2020. More info <a href=''https://dlfm.web.ox.ac.uk/#Dates''>here</a>.'
+ 
+- title: NLP4MusA
+  year: 2020
+  id: NLP4MusA20
+  link: https://sites.google.com/view/nlp4musa
+  deadline: '2020-07-24 23:59:59'
+  timezone: America/Toronto
+  date: Oct 16, 2020
+  place: Montreal, CA
+  sub: ML
+
+- title: ISMIR
+  year: 2020
+  id: ismir20
+  link: https://ismir.github.io/ISMIR2020/
+  deadline: '2020-05-15 23:59:59'
+  abstract_deadline: '2020-05-08 23:59:59'
+  timezone: UTC-12
+  date: October 12-15, 2020
+  place: Montreal, Canada
+  sub: SP
+  note: '<b>NOTE</b>: Mandatory abstract deadline on May 08, 2020. More info <a href=''https://ismir.github.io/ISMIR2020/cfp/''>here</a>.'
+
+- title: MM
+  year: 2020
+  id: mm20
+  link: https://2020.acmmm.org/
+  deadline: '2020-05-24 23:59:00'
+  abstract_deadline: '2020-05-17 23:59:59'
+  timezone: UTC
+  date: October 12-16, 2020
+  place: Seattle, USA
+  sub: SP
+  note: '<b>NOTE</b>: Mandatory abstract deadline on May 17, 2020. More info <a href=''https://2020.acmmm.org/important-dates.html''>here</a>.'
+
+- title: AES Convention
+  year: 2020
+  id: aes149
+  link: http://www.aes.org/events/149/authors/cfc/
+  deadline: '2020-06-15 23:59:59'
+  timezone: UTC+1
+  date: October 21-24, 2020
+  place: New York, USA
+  sub: SP
+
+- title: CSMC/MuMe
+  year: 2020
+  id: csmc20
+  link: https://www.kth.se/en/eecs/om-oss/konferenser-och-event/aimusic2020
+  deadline: '2020-08-14 23:59:59'
+  timezone: UTC-12
+  date: October 22-24, 2020
+  place: Stockholm, Sweden
+  sub: ML
+
+- title: EUSIPCO
+  year: 2020
+  id: eusipco20
+  link: https://eusipco2020.org/
+  deadline: '2020-03-02 23:59:59'
+  timezone: America/Los_Angeles
+  date: October 24-30, 2020
+  place: Amsterdam, Netherlands
+  sub: SP
+
+- title: InterSpeech
+  year: 2020
+  id: interspeech20
+  link: http://www.interspeech2020.org/
+  deadline: '2020-05-08 23:59:59'
+  timezone: Asia/Shanghai
+  date: October 26-29, 2020
+  place: Shanghai, China
+  sub: SP
+
+- title: MLSP
+  year: 2020
+  id: mlsp20
+  link: https://ieeemlsp.cc/
+  deadline: '2020-04-19 23:59:59'
+  timezone: America/Los_Angeles
+  date: Sep 21-24, 2020
+  place: Espoo, Finland
+  sub: SP
+
+- title: AudioMostly
+  year: 2020
+  id: amostly20
+  link: https://audiomostly.com/2020
+  deadline: '2020-06-01 23:59:59'
+  timezone: UTC-12
+  date: Sep 15-17, 2020
+  place: Graz, Austria
+  sub: SP
+
+- title: MMSP
+  year: 2020
+  id: mmsp20
+  link: http://mmsp2020.org/
+  deadline: '2020-06-14 23:59:59'
+  timezone: UTC-12
+  date: Sep 21-23, 2020
+  place: Tampere, Finland
+  sub: SP
+
+- title: DAFx
+  year: 2020
+  id: dafx20
+  link: https://dafx2020.mdw.ac.at/
+  deadline: '2020-04-19 23:59:59'
+  timezone: UTC-12
+  date: Sep 8-12, 2020
+  place: Vienna, Austria
+  sub: SP
+
+- title: WIMP
+  year: 2020
+  id: wimp20
+  link: https://intelligent-music-production.github.io/
+  deadline: '2020-07-17 23:59:59'
+  timezone: Europe/London
+  date: Sep 4, 2020
+  place: Plymouth, UK
+  sub: SP
+
+- title: KDD
+  year: 2020
+  id: kdd20
+  link: https://www.kdd.org/kdd2020/
+  deadline: '2020-02-13 23:59:59'
+  timezone: UTC-11
+  date: August 22-27, 2020
+  place: San Diego, California, USA
+  sub: DM
+
+- title: ICCC
+  year: 2020
+  id: iccc20
+  link: http://computationalcreativity.net/iccc20/
+  deadline: '2020-03-08 23:59:59'
+  timezone: UTC-12
+  date: June 29-July 3, 2020
+  place: Coimbra, Portugal
+  sub: ML
+
+- title: ICMC
+  year: 2020
+  id: icmc20
+  link: https://icmc2020.org/
+  deadline: '2020-02-07 23:59:59'
+  timezone: America/Los_Angeles
+  date: July 5-11, 2020
+  place: Santiage, Chile
+  sub: SP
+
+- title: ICME
+  year: 2020
+  id: icme20
+  link: https://www.2020.ieeeicme.org/
+  deadline: '2019-12-13 23:59:59'
+  timezone: UTC-12
+  date: July 6-10, 2020
+  place: London, UK
+  sub: SP
+
+- title: IJCAI-PRICAI
+  year: 2020
+  id: ijcai-pricai20
+  link: https://www.ijcai20.org/
+  deadline: '2020-01-21 23:59:59'
+  abstract_deadline: '2020-01-15 23:59:59'
+  timezone: UTC-12
+  date: July 11-17, 2020
+  place: Yokohama, Japan
+  sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 15, 2020. More info <a href=''https://www.ijcai19.org/''>here</a>.'
+
+- title: NIME
+  year: 2020
+  id: nime20
+  link: https://nime2020.bcu.ac.uk/
+  deadline: '2020-01-31 23:59:59'
+  abstract_deadline: '2020-01-24 13:00:00'
+  timezone: Europe/London
+  date: Jul 21-25, 2020
+  place: Birmingham, UK
+  sub: SP
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 024, 2020.'
+
+- title: SIGIR
+  year: 2020
+  id: sigir20
+  link: http://sigir.org/sigir2020/
+  deadline: '2020-01-22 23:59:59'
+  abstract_deadline: '2020-01-15 23:59:59'
+  timezone: UTC-12
+  date: July 25 - 30, 2020
+  place: Xi'an, China
+  sub: DM
+
+- title: ICML
+  year: 2020
+  id: icml20
+  link: https://icml.cc/Conferences/2020
+  deadline: '2020-02-06 23:59:00'
+  abstract_deadline: '2020-01-30 23:59:00'
+  timezone: UTC-12
+  date: July 12-18, 2020
+  place: Vienna, Austria
+  sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 30, 2020. More info <a href=''https://icml.cc/Conferences/2020/CallForPapers''>here</a>.'
+
+- title: ECAI
+  year: 2020
+  id: ecai20
+  link: http://ecai2020.eu/
+  deadline: '2019-11-19 23:59:59'
+  abstract_deadline: '2019-11-15 23:59:59'
+  timezone: UTC-12
+  date: June 8-12, 2020
+  place: Santiago de Compostella, Spain
+  sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Nov 15, 2019. More info <a href=''http://ecai2020.eu/call-for-papers/mainconference/''>here</a>.'
+
+- title: ICMR
+  year: 2020
+  id: icmr20
+  link: http://icmr2020.org/
+  deadline: '2020-01-11 23:59:59'
+  timezone: Europe/London
+  date: June 8-11, 2020
+  place: Dublin, Ireland
+  sub: ML
+
+- title: SMC
+  year: 2020
+  id: smc20
+  link: https://smc2020torino.it/uk/
+  deadline: '2020-03-06 23:59:59'
+  abstract_deadline: '2020-02-28 23:59:00'
+  timezone: UTC-12
+  date: June 20-26, 2020
+  place: Torino, Italy
+  sub: SP
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Feb 28, 2020. More info <a href=''https://smc2020torino.it/uk/page.asp?PID=87''>here</a>.'
+
 - title: WSDM
   year: 2020
   id: wsdm20
